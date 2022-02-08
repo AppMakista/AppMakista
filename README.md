@@ -1,4 +1,4 @@
-# mamakista
+# Makista
 
 Bienvenue sur le dépôt de l'aplication makista
 
