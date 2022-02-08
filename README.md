@@ -1,8 +1,8 @@
 # mamakista
 
-A new Flutter application.
+Bienvenue sur le dépôt de l'aplication makista
 
-## Getting Started
+## Makista la joie de tout les instants
 
 This project is a starting point for a Flutter application.
 
